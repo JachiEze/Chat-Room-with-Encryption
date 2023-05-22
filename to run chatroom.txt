@@ -7,4 +7,4 @@ To run chatroom app:
 5. node server.js
 6. on your browser type "localhost:5000/"
 7. use multiple tabs to register multiple users
-8. start chatting
+8. start chatting!
